@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/CALogo.ico',
 
   // Set the production url of your site here
-  url: 'https://hppdeaf.github.io',
+  url: 'https://hppedeaf.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Camera-Animation-Hppe-Docs/',
@@ -69,7 +69,7 @@ const config = {
         hideOnScroll: true,
         logo: {
           alt: 'CAHppe Logo',
-          src: '@site/static/img/CALogo.png',
+          src: 'img/CALogo.png',
         },
         items: [
           {
@@ -104,15 +104,15 @@ const config = {
             items: [
               {
                 label: 'Installation',
-                to: '/docs/installation/installation',
+                to: '/docs/installation',
               },
               {
                 label: 'How to use',
-                to: '/docs/how-to-use/how-to-use',
+                to: '/docs/how-to-use',
               },
               {
                 label: 'OSC',
-                to: '/docs/OSC/osc',
+                to: '/docs/osc',
               },
             ],
           },
