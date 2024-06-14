@@ -93,5 +93,5 @@ Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
 :::
 
 ![banner](@site/static/img/CA_Banner.png)
-![](https://youtu.be/xxwzPxKzBWk)
+![video](@site/static/video/1.mp4)
 ![gif](@site/static/img/ASS.gif)

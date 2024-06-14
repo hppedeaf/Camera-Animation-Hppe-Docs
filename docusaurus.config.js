@@ -44,9 +44,14 @@ const config = {
             'https://github.com/hppedeaf/Camera-Animation-Hppe-Docs/tree/main/',
         },
         blog: {
-          blogTitle: 'Blog',
-          blogDescription: 'Blog Description',
-          postsPerPage: 'ALL'
+          blogTitle: 'Updates',
+          blogDescription: 'Updates Description',
+          postsPerPage: 'ALL',
+          showReadingTime: false,
+          readingTime: ({ content, frontMatter, defaultReadingTime }) =>
+            frontMatter.hide_reading_time ? undefined : defaultReadingTime({ content }),
+          path: 'updates',
+          routeBasePath: 'updates',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -130,11 +135,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Logs',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Updates',
+                to: '/updates',
               },
             ],
           },
