@@ -2,3 +2,8 @@ docusaurus:
   label: 'Docusaurus'
   permalink: '/docusaurus'
   description: 'Docs related to the Docusaurus framework'
+
+releases:
+  label: 'Releases'
+  permalink: '/releases'
+  description: 'Documentation related to releases'
