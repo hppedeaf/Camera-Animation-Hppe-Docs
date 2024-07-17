@@ -132,6 +132,14 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/hppedeaf',
               },
+              {
+                label: 'Gumroad',
+                href: 'https://hppedeaf.gumroad.com/l/CameraAnimationHppe',
+              },
+              {
+                label: 'Give feedback',
+                href: 'https://camera-animation.canny.io',
+              },
             ],
           },
           {
