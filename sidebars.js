@@ -9,5 +9,15 @@ export default {
       label: 'Gumroad',
       href: 'https://hppedeaf.gumroad.com/l/CameraAnimationHppe',
     },
+    {
+      type: 'link',
+      label: 'Discord',
+      href: 'https://discord.gg/KFPUU3pEKg',
+    },
+    {
+      type: 'link',
+      label: 'Give feedback',
+      href: 'https://camera-animation.canny.io',
+    },
   ],
 };
