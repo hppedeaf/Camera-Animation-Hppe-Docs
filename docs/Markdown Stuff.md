@@ -1,11 +1,6 @@
----
-title: Installation
-description: Create a doc page with rich content.
-tags:
-  - Releases
-  - docusaurus
-sidebar_position: 2
----
+
+# Markdown Stuff
+
 import ReactPlayer from 'react-player';
 
 import Tabs from '@theme/Tabs';
