@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # CAHppe Intro
 
-GIF HERE
+GIF HERE 
 
 ### ◆ Description:
 
