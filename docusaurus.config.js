@@ -104,23 +104,23 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Installation',
-                to: '/docs/installation',
-              },
-              {
-                label: 'How to use',
-                to: '/docs/how-to-use',
-              },
-              {
-                label: 'OSC',
-                to: '/docs/osc',
-              },
-            ],
-          },
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     {
+          //       label: 'Installation',
+          //       to: 'docs/Markdow Stuff',
+          //     },
+          //     {
+          //       label: 'How to use',
+          //       to: 'docs/02-intro copy',
+          //     },
+          //     {
+          //       label: 'OSC',
+          //       to: 'docs/01-intro',
+          //     },
+          //   ],
+          // },
           {
             title: 'Community',
             items: [

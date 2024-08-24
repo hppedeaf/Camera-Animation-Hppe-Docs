@@ -17,27 +17,27 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'center' }}>
-          <div className={styles.buttons} style={{margin: '0px 10px'}}>
+          {/* <div className={styles.buttons} style={{margin: '0px 10px'}}>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/installation">
+              to="docs/03-Installations/01-Standard">
               Installation
             </Link>
           </div>
           <div className={styles.buttons} style={{margin: '0px 10px'}}>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/how-to-use">
+              to="docs/05-How-To-Use/01-Standard">
               How To Use
             </Link>
           </div>
           <div className={styles.buttons} style={{margin: '0px 10px'}}>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/osc">
+              to="docs/05-How-To-Use/04-OSC">
               OSC
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
     </header>
