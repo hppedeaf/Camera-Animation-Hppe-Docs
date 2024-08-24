@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+import DocCardList from '@theme/DocCardList';
 
 # CAHppe Intro
 
@@ -39,7 +40,7 @@ ___
 Because the Camera Animation is connected to a VRC Camera, that need to look at your face.
 :::
 
-Please keep an eye on the latest updates! (Check the logs at the bottom right here)"
+Please keep an eye on the [latest Updates](../updates)!
 
 ___
 
@@ -77,7 +78,6 @@ ___
 ### ◆ Contents:
 
 - 3D model (FBX)
-- △Triangles : 168 (each arrows △22 x 16)
 - Texture files
 - Animations (102)
 - FX (1)
@@ -90,4 +90,3 @@ ___
 
 ### ◆ How to add on Unity:
 
-Please click next step!

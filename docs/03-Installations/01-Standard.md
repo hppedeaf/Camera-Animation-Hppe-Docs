@@ -1,3 +1,7 @@
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+
 - Get your avatar ready (Caution, To ensure your avatar need free of parameter 32 bits)
 
 - Go to find folder of Camera Animation

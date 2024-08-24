@@ -35,8 +35,7 @@ const config = {
 
   presets: [
     [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
+      '@docusaurus/preset-classic',
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
@@ -104,23 +103,23 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          // {
-          //   title: 'Docs',
-          //   items: [
-          //     {
-          //       label: 'Installation',
-          //       to: 'docs/Markdow Stuff',
-          //     },
-          //     {
-          //       label: 'How to use',
-          //       to: 'docs/02-intro copy',
-          //     },
-          //     {
-          //       label: 'OSC',
-          //       to: 'docs/01-intro',
-          //     },
-          //   ],
-          // },
+          {
+            title: 'Docs',
+            items: [
+              {
+                label: 'Installation',
+                to: '/docs/Installations/Standard',
+              },
+              {
+                label: 'How to use',
+                to: '/docs/How-To-Use/Standard',
+              },
+              {
+                label: 'OSC',
+                to: 'docs/How-To-Use/OSC',
+              },
+            ],
+          },
           {
             title: 'Community',
             items: [

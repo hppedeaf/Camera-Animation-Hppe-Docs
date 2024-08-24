@@ -27,6 +27,6 @@ It's best to use VRCFury (highly recommended!)
 :::
 :::info
 
-if you prefer doing manual, please check [the Manual Installations](..\04-Manual Installation\01-Standard.md) instead.
+if you prefer doing manual, please check [the Manual Installations](./Manual%20Installation/Standard) instead.
 
 :::
