@@ -4,4 +4,4 @@ slug: version-1.1.1
 date: 2024-02-01T10:00
 ---
 
-Fix waypoints as you can choice when stop any number waypoints
+- Fix waypoints as you can choice when stop any number waypoints

@@ -1,5 +1,3 @@
-require to install app OSC from Gumroad
-
 - Get your avatar ready (Caution, To ensure your avatar need free of parameter 32 bits)
 
 - Go to find folder of OSC from Camera Animation folder

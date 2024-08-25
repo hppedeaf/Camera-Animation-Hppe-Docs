@@ -1,6 +1,3 @@
-import DocCardList from '@theme/DocCardList';
-
-<DocCardList />
 
 - Get your avatar ready (Caution, To ensure your avatar need free of parameter 32 bits)
 
@@ -15,7 +12,8 @@ It's in Assets / Hppedeaf / Camera Animation
 
 - Grab and drag VRCFury Prefab of RIGHT HAND or LEFT HAND (whatever your prefer left or right hand) to drop on your top of avatar (Not in Armature bones)
 
-//GIF HERE
+![gif](@site/static/img/1.gif)
+Demo Gif. (change later better)
 
 - In CA prefab, select “CA Target” if you can see the blue ball and move it to near your Index Finger
 
@@ -26,3 +24,7 @@ It's in Assets / Hppedeaf / Camera Animation
 //GIF HERE
 
 // FULL TUTORIAL VIDEOS HERE
+
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
