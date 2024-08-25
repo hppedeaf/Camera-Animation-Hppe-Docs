@@ -26,5 +26,3 @@ It's in Assets / Hppedeaf / Camera Animation
 //GIF HERE
 
 // FULL TUTORIAL VIDEOS HERE
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NeQeA9TXIA4?si=c5O03yCJKmvvMqA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

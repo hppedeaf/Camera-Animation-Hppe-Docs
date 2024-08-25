@@ -5,7 +5,7 @@ import DocCardList from '@theme/DocCardList';
 
 # CAHppe Intro
 
-GIF HERE 
+<iframe width="600" height="337,5" src="https://www.youtube.com/embed/NeQeA9TXIA4?si=c5O03yCJKmvvMqA8" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### ◆ Description:
 
