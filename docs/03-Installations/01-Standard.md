@@ -24,10 +24,4 @@ Demo Gif. (change later better)
 //GIF HERE
 
 // FULL TUTORIAL VIDEOS HERE
-<<<<<<< HEAD
 
-import DocCardList from '@theme/DocCardList';
-
-<DocCardList />
-=======
->>>>>>> fa308d5d7be3b0921111cb57f26770f56666dacb
