@@ -1,6 +1,3 @@
----
-sidebar_position: 2
----
 
 # Tutorial Intro
 Get the package from Gumroad and you'll receive an API key.
