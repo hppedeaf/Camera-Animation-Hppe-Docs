@@ -24,6 +24,7 @@ It's best to use VRCFury (highly recommended!)
   VRCFury simplifies the installation and customization process for VRChat avatars and assets, ensuring everything works seamlessly. It's highly recommended to choose the package with VRCFury support. VRCFury will automatically handle the asset installation and setup for you.
 
 </details>
+Download the latest VRCFury -> [The VRCFury Website](https://vrcfury.com/download)
 :::
 :::info
 

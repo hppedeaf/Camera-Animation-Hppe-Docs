@@ -1,31 +1,45 @@
 
-- Get your avatar ready (Caution, To ensure your avatar need free of parameter 34 bits)
+### 1. Avatar ready
+Get your avatar ready (Caution, To ensure your avatar need free of parameter 34 bits)
+:::note
 
-- Go to find folder of Camera Animation
+Or 0 bits if you prefer everything to be local only, as other remote players won't be able to see your CA assets.
+
+:::
+___
+
+### 2. Find folder
+Go to find folder of Camera Animation
 
 :::tip
 
 "I can't find where folder?"
-It's in Assets / Hppedeaf / Camera Animation
+It's in Assets / Hppedeaf / Camera Animation v2
 
 :::
+___
 
-- Grab and drag VRCFury Prefab to drop on your top of avatar (Not in Armature bones)
+### 3. CAHppe Prefab
+Grab and drag the Prefab to drop on your top of avatar (Not in Armature bones)
 
 ![gif](@site/static/img/1.gif)
+___
 
-- In CA prefab, select “Hand Waypoints” if you can see the blue ball and move it to near your right or left Index Finger (Whatever your prefer left or right)
+### 4. “Hand Waypoints”
+In CA prefab, select “Hand Waypoints” if you can see the blue ball and move it to near your right or left Index Finger (Whatever your prefer left or right)
 
 ![gif](@site/static/img/2.gif)
 
 :::tip
 
-If your avatar is in A-Pose. using this instead. keep the blue arrow face toward.
+If your avatar is in A-Pose, use this instead. Make sure the blue arrow is facing forward.
 ![gif](@site/static/img/3.gif)
 
 :::
+___
 
-- And publish! (VRCFury will setup all FX and Parameter for you itself)
+### 5. Publish!
+And publish! (VRCFury will setup all FX and Parameter for you itself)
 
 ![gif](@site/static/img/4.gif)
 
