@@ -1,6 +1,6 @@
 require to get [VRCLens](https://hirabiki.gumroad.com/l/rpnel) from Gumroad
 
-- Get your avatar ready (Caution, To ensure your avatar need free of parameter 32 bits)
+- Get your avatar ready (Caution, To ensure your avatar need free of parameter 34 bits)
 
 - Go to find folder of Plugin from Camera Animation folder
 

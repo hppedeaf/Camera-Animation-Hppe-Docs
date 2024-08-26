@@ -1,5 +1,5 @@
 
-- Get your avatar ready (Caution, To ensure your avatar need free of parameter 32 bits)
+- Get your avatar ready (Caution, To ensure your avatar need free of parameter 34 bits)
 
 - Go to find folder of Camera Animation
 
@@ -10,18 +10,24 @@ It's in Assets / Hppedeaf / Camera Animation
 
 :::
 
-- Grab and drag VRCFury Prefab of RIGHT HAND or LEFT HAND (whatever your prefer left or right hand) to drop on your top of avatar (Not in Armature bones)
+- Grab and drag VRCFury Prefab to drop on your top of avatar (Not in Armature bones)
 
 ![gif](@site/static/img/1.gif)
-Demo Gif. (change later better)
 
-- In CA prefab, select “CA Target” if you can see the blue ball and move it to near your Index Finger
+- In CA prefab, select “Hand Waypoints” if you can see the blue ball and move it to near your right or left Index Finger (Whatever your prefer left or right)
 
-//GIF HERE
+![gif](@site/static/img/2.gif)
+
+:::tip
+
+If your avatar is in A-Pose. using this instead. keep the blue arrow face toward.
+![gif](@site/static/img/3.gif)
+
+:::
 
 - And publish! (VRCFury will setup all FX and Parameter for you itself)
 
-//GIF HERE
+![gif](@site/static/img/4.gif)
 
 // FULL TUTORIAL VIDEOS HERE
 

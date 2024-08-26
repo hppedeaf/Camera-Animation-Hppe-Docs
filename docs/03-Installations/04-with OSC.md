@@ -1,4 +1,4 @@
-- Get your avatar ready (Caution, To ensure your avatar need free of parameter 32 bits)
+- Get your avatar ready (Caution, To ensure your avatar need free of parameter 34 bits)
 
 - Go to find folder of OSC from Camera Animation folder
 
