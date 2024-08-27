@@ -1,5 +1,11 @@
 
 # Tutorial Intro
+:::warning
+
+**To be warning, some pages are still WIP / under construction.**
+
+:::
+___
 Get the package from Gumroad and you'll receive an API key.
 
 Once you've got the package, unpackage it into your avatar Unity project.
@@ -28,3 +34,5 @@ Download the latest VRCFury -> [The VRCFury Website](https://vrcfury.com/downloa
 if you prefer doing manual, please check [the Manual Installations](./Manual-Installation/Standard) instead.
 
 :::
+
+Edited by TachDeaf

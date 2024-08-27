@@ -1,4 +1,8 @@
+:::note
 
+#### This only works for CAHppe V2. Please make sure to keep your CAHppe version up to date.
+
+:::
 ### 1. Avatar ready
 Get your avatar ready (Caution, To ensure your avatar need free of parameter 34 bits)
 :::note
@@ -45,3 +49,4 @@ And publish! (VRCFury will setup all FX and Parameter for you itself)
 
 // FULL TUTORIAL VIDEOS HERE
 
+Edited by TachDeaf

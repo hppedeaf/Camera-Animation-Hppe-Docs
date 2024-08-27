@@ -1,6 +1,8 @@
-import DocCardList from '@theme/DocCardList';
+:::note
 
-<DocCardList />
+#### Works with V1.3.2 of CAHppe. The new V2 of CAHppe didn't test with Manual yet. Will add for v2 in the future. thank you for be patience
+
+:::
 
 - Get your avatar ready (Caution, To ensure your avatar need free of parameter 34 bits)
 
